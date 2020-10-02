@@ -1,0 +1,7 @@
+.header {
+  grid-area: head;
+  /* border: 2px solid blue; */
+  text-align: center;
+  font-weight: 5px;
+  font-family: Verdana;
+}

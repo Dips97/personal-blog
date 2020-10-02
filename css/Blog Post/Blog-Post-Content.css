@@ -1,0 +1,13 @@
+/* Content Style Codes */
+.content {
+  /* border: 2px solid orange; */
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.figures {
+  width: 100%;
+  height: auto;
+}
+li {
+  margin: 10px;
+}

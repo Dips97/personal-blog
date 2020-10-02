@@ -1,0 +1,56 @@
+/* style code for sidebar links and elements */
+
+.sidebar {
+  grid-area: sd;
+  /* border: 2px solid red; */
+  display: flex;
+  flex-direction: column;
+  row-gap: 5px;
+  background-color: rgba(255, 255, 255, 0.726);
+}
+
+.side-bar-title {
+  font-size: 20px;
+  /* border: 1px solid blue; */
+}
+
+.sidebar-texts {
+  font-family: helvetica;
+}
+img {
+  height: auto;
+  width: 100%;
+}
+.sidebar-links {
+  padding-left: 5px;
+  padding-right: 5px;
+  justify-content: center;
+  color: black;
+  border-radius: 7px;
+  background-color: rgba(169, 169, 169, 0.281);
+}
+
+a {
+  color: cornflowerblue;
+  text-decoration: none;
+}
+
+button {
+  margin: 10px;
+  background-color: #3cb9df;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-weight: 700;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#Button2 {
+  background-color: white;
+  border: 2px solid #3cb9df;
+  color: #3cb9df;
+  font-weight: 800;
+}

@@ -1,0 +1,6 @@
+.footer {
+  grid-area: ft;
+  /* border: 2px solid red; */
+  text-align: center;
+  background-image: url(https://wallpapercave.com/wp/wp45992.jpg);
+}
